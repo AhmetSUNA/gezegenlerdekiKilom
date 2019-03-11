@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GezegenlerdekiKilom</string>
+    <string name="app_baslik">Gezegenlerde Kaç Kilosun???</string>
+    <string name="kilo_giris_hint">Dünyadaki Kilon Nedir</string>
+</resources>
